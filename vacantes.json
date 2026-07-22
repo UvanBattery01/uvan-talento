@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "puesto": "Asesor de Ventas",
+    "sucursal": "Ixtapaluca",
+    "estado": "Vacante disponible",
+    "tipo": "Tiempo completo",
+    "salario": "Sueldo semanal + Bonos",
+    "horario": "Lunes a Sábado",
+    "descanso": "Domingos",
+    "descripcion": "Atención al cliente, venta de baterías, diagnóstico e instalación.",
+    "beneficios": [
+      "Sueldo semanal",
+      "Bonos",
+      "Capacitación",
+      "Uniforme",
+      "Prestaciones de ley",
+      "Oportunidad de crecimiento"
+    ]
+  },
+  {
+    "id": 2,
+    "puesto": "Asesor de Ventas",
+    "sucursal": "Los Reyes",
+    "estado": "Vacante disponible",
+    "tipo": "Tiempo completo",
+    "salario": "Sueldo semanal + Bonos",
+    "horario": "Lunes a Sábado",
+    "descanso": "Domingos",
+    "descripcion": "Atención al cliente, venta de baterías, diagnóstico e instalación.",
+    "beneficios": [
+      "Sueldo semanal",
+      "Bonos",
+      "Capacitación",
+      "Uniforme",
+      "Prestaciones de ley",
+      "Oportunidad de crecimiento"
+    ]
+  },
+  {
+    "id": 3,
+    "puesto": "Asesor de Ventas",
+    "sucursal": "Texcoco",
+    "estado": "Vacante disponible",
+    "tipo": "Tiempo completo",
+    "salario": "Sueldo semanal + Bonos",
+    "horario": "Lunes a Sábado",
+    "descanso": "Domingos",
+    "descripcion": "Atención al cliente, venta de baterías, diagnóstico e instalación.",
+    "beneficios": [
+      "Sueldo semanal",
+      "Bonos",
+      "Capacitación",
+      "Uniforme",
+      "Prestaciones de ley",
+      "Oportunidad de crecimiento"
+    ]
+  },
+  {
+    "id": 4,
+    "puesto": "Asesor de Ventas",
+    "sucursal": "Nezahualcóyotl",
+    "estado": "Vacante disponible",
+    "tipo": "Tiempo completo",
+    "salario": "Sueldo semanal + Bonos",
+    "horario": "Lunes a Sábado",
+    "descanso": "Domingos",
+    "descripcion": "Atención al cliente, venta de baterías, diagnóstico e instalación.",
+    "beneficios": [
+      "Sueldo semanal",
+      "Bonos",
+      "Capacitación",
+      "Uniforme",
+      "Prestaciones de ley",
+      "Oportunidad de crecimiento"
+    ]
+  },
+  {
+    "id": 5,
+    "puesto": "Asesor de Ventas",
+    "sucursal": "Santa Rosa",
+    "estado": "Vacante disponible",
+    "tipo": "Tiempo completo",
+    "salario": "Sueldo semanal + Bonos",
+    "horario": "Lunes a Sábado",
+    "descanso": "Domingos",
+    "descripcion": "Atención al cliente, venta de baterías, diagnóstico e instalación.",
+    "beneficios": [
+      "Sueldo semanal",
+      "Bonos",
+      "Capacitación",
+      "Uniforme",
+      "Prestaciones de ley",
+      "Oportunidad de crecimiento"
+    ]
+  },
+  {
+    "id": 6,
+    "puesto": "Asesor de Ventas",
+    "sucursal": "Central de Abastos",
+    "estado": "Vacante disponible",
+    "tipo": "Tiempo completo",
+    "salario": "Sueldo semanal + Bonos",
+    "horario": "Lunes a Sábado",
+    "descanso": "Domingos",
+    "descripcion": "Atención al cliente, venta de baterías, diagnóstico e instalación.",
+    "beneficios": [
+      "Sueldo semanal",
+      "Bonos",
+      "Capacitación",
+      "Uniforme",
+      "Prestaciones de ley",
+      "Oportunidad de crecimiento"
+    ]
+  },
+  {
+    "id": 7,
+    "puesto": "Asesor de Ventas",
+    "sucursal": "Chicoloapan",
+    "estado": "Vacante disponible",
+    "tipo": "Tiempo completo",
+    "salario": "Sueldo semanal + Bonos",
+    "horario": "Lunes a Sábado",
+    "descanso": "Domingos",
+    "descripcion": "Atención al cliente, venta de baterías, diagnóstico e instalación.",
+    "beneficios": [
+      "Sueldo semanal",
+      "Bonos",
+      "Capacitación",
+      "Uniforme",
+      "Prestaciones de ley",
+      "Oportunidad de crecimiento"
+    ]
+  },
+  {
+    "id": 8,
+    "puesto": "Asesor de Ventas",
+    "sucursal": "Ermita",
+    "estado": "Próxima apertura",
+    "tipo": "Tiempo completo",
+    "salario": "Sueldo semanal + Bonos",
+    "horario": "Lunes a Sábado",
+    "descanso": "Domingos",
+    "descripcion": "Forma parte del equipo fundador de nuestra nueva sucursal.",
+    "beneficios": [
+      "Sueldo semanal",
+      "Bonos",
+      "Capacitación",
+      "Uniforme",
+      "Prestaciones de ley",
+      "Oportunidad de crecimiento"
+    ]
+  },
+  {
+    "id": 9,
+    "puesto": "Asesor de Ventas",
+    "sucursal": "Próxima sucursal",
+    "estado": "Vacante próxima",
+    "tipo": "Tiempo completo",
+    "salario": "Sueldo semanal + Bonos",
+    "horario": "Lunes a Sábado",
+    "descanso": "Domingos",
+    "descripcion": "Estamos creciendo. Muy pronto anunciaremos una nueva sucursal.",
+    "beneficios": [
+      "Sueldo semanal",
+      "Bonos",
+      "Capacitación",
+      "Uniforme",
+      "Prestaciones de ley",
+      "Oportunidad de crecimiento"
+    ]
+  }
+]
