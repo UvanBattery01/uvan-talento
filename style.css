@@ -338,3 +338,114 @@ nav{
 }
 
 }
+
+/* ================= VACANTES ================= */
+
+.container{
+    width:min(1200px,92%);
+    margin:auto;
+}
+
+#vacantes{
+    padding:90px 0;
+}
+
+.subtitle{
+    text-align:center;
+    color:#6b7280;
+    margin-bottom:45px;
+}
+
+#vacantes-container{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+
+    gap:25px;
+
+}
+
+.vacante{
+
+    background:white;
+
+    border-radius:22px;
+
+    padding:28px;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.08);
+
+    transition:.3s;
+
+    border:1px solid #ececec;
+
+}
+
+.vacante:hover{
+
+    transform:translateY(-8px);
+
+}
+
+.vacante h3{
+
+    color:#d60000;
+
+    margin-bottom:15px;
+
+}
+
+.vacante p{
+
+    margin:8px 0;
+
+}
+
+.estado{
+
+    display:inline-block;
+
+    margin:18px 0;
+
+    background:#d60000;
+
+    color:white;
+
+    padding:8px 15px;
+
+    border-radius:999px;
+
+    font-size:14px;
+
+}
+
+.postular{
+
+    display:block;
+
+    text-align:center;
+
+    margin-top:25px;
+
+    background:#d60000;
+
+    color:white;
+
+    text-decoration:none;
+
+    padding:14px;
+
+    border-radius:15px;
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
+.postular:hover{
+
+    background:#b40000;
+
+}
