@@ -127,3 +127,48 @@ window.addEventListener("scroll",()=>{
 // Notificaciones
 
 console.log("Sistema listo.");
+
+/* ===========================
+   CARGAR VACANTES
+=========================== */
+
+async function cargarVacantes() {
+
+    const respuesta = await fetch("vacantes.json");
+    const vacantes = await respuesta.json();
+
+    const contenedor = document.getElementById("vacantes-container");
+
+    contenedor.innerHTML = "";
+
+    vacantes.forEach(vacante => {
+
+        contenedor.innerHTML += `
+
+        <div class="vacante">
+
+            <h3>${vacante.puesto}</h3>
+
+            <p><strong>Sucursal:</strong> ${vacante.sucursal}</p>
+
+            <p><strong>Horario:</strong> ${vacante.horario}</p>
+
+            <p><strong>Descanso:</strong> ${vacante.descanso}</p>
+
+            <p><strong>Salario:</strong> ${vacante.salario}</p>
+
+            <span class="estado">${vacante.estado}</span>
+
+            <a href="#" class="postular">
+                Postularme
+            </a>
+
+        </div>
+
+        `;
+
+    });
+
+}
+
+cargarVacantes();
